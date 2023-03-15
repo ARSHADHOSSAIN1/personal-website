@@ -1,0 +1,114 @@
+body{
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+.top-header{
+    height:800px;
+    background-image: url(./images/header-bg.png);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+    margin-top: 20px;
+}
+img{
+   max-width: 100%;
+}
+.header-text{
+    margin-left: 8%;
+}
+.header-text h1{
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 150px;
+}
+.header-text h2{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(238, 94, 37);
+    margin-bottom: 50px;
+}
+.btn{
+    padding: 10px 30px;
+    background-color: rgb(238, 94, 37);
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.header-text p{
+    margin-bottom: 50px;
+}
+.bio-graphy{
+    background-image: url(./images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 800px;
+
+}
+*******************************************************************************
+.leatest-project{
+    background-image: url(./images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+#arshad{
+    background-image: url(./images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: left;
+}
+#arshad h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: normal;
+}
+.third-steap{
+    width: 20%;
+    margin-left: 10%;
+    float: left;
+    margin-top: 80px;
+}
+.client{
+    background-image: url(./images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.what-client{
+    text-align: center;
+    /* font-size: 50px; */
+    font-weight: normal;
+    margin-bottom: 80px;
+    margin-top:10px;
+}
+.what-client2{
+    text-align: center;
+}
+.what-client2 h4{
+    color: rgb(218, 218, 218);
+}
+.what-client3{
+    text-align: center;
+    color: rgb(218, 218, 218);
+    width: 30%;
+    margin-top: 40px;
+    margin-left: 35%;
+    margin-bottom: 50px;
+}
+.what-client4{
+    text-align: center;
+    padding: 50px 0;
+    background-color:rgb(238, 94, 37) ;
+    width: 40%;
+    margin-left: 30%;
+    color:aliceblue;
+    border-radius: 10px;
+    
+}
+footer{
+    text-align: center;
+    padding-top: 50px ;
+}
